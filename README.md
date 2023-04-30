@@ -11,18 +11,10 @@
   
 
 - ⚡ Fun fact: I like to keep my night shift activated 24 x 7
-</div></td><td valign="top" width="33%">  
-  <div align="center">  
- <img style="margin: 40px" width="30%" height="174" src="https://w0.peakpx.com/wallpaper/410/412/HD-wallpaper-plain-black-black.jpg"  />   
-    <img style="margin: 40px" width="30%" height="174"src="https://i.pinimg.com/originals/40/72/95/407295988ab9b254dce730c10c9b4c9a.gif">
-    <img style="margin:40px" width="30%" height="174" src="https://w0.peakpx.com/wallpaper/410/412/HD-wallpaper-plain-black-black.jpg" />   
-</div></td></tr></table>  
-  <div align="center">
-    <img style="margin: 40px" width="30%" height="174" src="https://w0.peakpx.com/wallpaper/410/412/HD-wallpaper-plain-black-black.jpg"  />   
-    <img style="margin: 40px" width="30%" height="174"src="https://i.pinimg.com/originals/40/72/95/407295988ab9b254dce730c10c9b4c9a.gif">
-    <img style="margin:40px" width="30%" height="174" src="https://w0.peakpx.com/wallpaper/410/412/HD-wallpaper-plain-black-black.jpg" />   
-    
-  </div>
+
+   
+<div align="center"><img width="30%" height="174" src="https://i.pinimg.com/originals/81/3f/e3/813fe3edf579ac732b24a7d97cbb6673.jpg"/><img width="30%" height="174" src="https://i.pinimg.com/originals/f9/d9/19/f9d9190e8e8dfe65b7e5f0695e5310b5.gif"><img width="30%" height="174" src="https://i.pinimg.com/originals/81/3f/e3/813fe3edf579ac732b24a7d97cbb6673.jpg"/></div>
+
 
 
 
