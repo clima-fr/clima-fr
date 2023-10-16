@@ -27,7 +27,6 @@
   
 - If I could choose a character to describe my personality I would choose Andrea Sachs from The Devil Wears Prada
 - I was once called on stage by Pharrell Williams at a concert and said no 
-- I can list all the winning countries of each year's World Cup, from the first to the last
 - I need to read at least 10 pages of a book before I go to sleep or I can't fall asleep (currently reading The Ballad of Songbirds and Snakes)
 - I enjoy hearing random facts about people. Share yours with me: [LinkedIn](https://www.linkedin.com/in/claralfranco/), [Email](mailto:claralimafranco@gmail.com)
   
