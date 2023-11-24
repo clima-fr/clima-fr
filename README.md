@@ -27,7 +27,7 @@
   
 - If I could choose a character to describe my personality I would choose Andrea Sachs from The Devil Wears Prada
 - I was once called on stage by Pharrell Williams at a concert and said no 
-- I need to read at least 10 pages of a book before I go to sleep or I can't fall asleep (currently reading The Ballad of Songbirds and Snakes)
+- I need to read at least 10 pages of a book before I go to sleep or I can't fall asleep (currently reading 1984)
 - I enjoy hearing random facts about people. Share yours with me: [LinkedIn](https://www.linkedin.com/in/claralfranco/), [Email](mailto:claralimafranco@gmail.com)
   
   <img width="100%" height="174" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ3ODY1NzQ0ODhkNTljNGNjZmE0OTBmODBjZTY1ZjVkYzZhYjNjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0HFijagZRPrwKd9K/giphy.gif">
