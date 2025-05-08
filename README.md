@@ -5,10 +5,10 @@
 <!-- about me starts -->
   <h3 align="center">About me</h3>
 
-- I'm a 25-year-old Software Engineer
+- I'm a 25-year-old Software Engineer.
 - I’m currently studying <b>Computer Engineering</b> at the [Universidade Aberta](https://portal.uab.pt/) and <b>Common Core</b> at [42 School](https://42.fr/en/homepage/) in São Paulo
 - I finished the AWS re/Start program from Amazon Web Services. Through scenario-based exercises, I developed skills in Linux, Python, networking, security, databases, automation and essential AWS Cloud skills.
-- I recently passed the <b>AWS Cloud Practitioner</b> exam and received the certification.
+- I passed the <b>AWS Cloud Practitioner</b> exam and received the certification.
 - I have a very good knowledge of C, C++ and Shell learned at [42Porto](https://www.42porto.com/) and some knowledge of HTML, CSS and PHP learned at [TecPuc](https://www.tecpuc.com.br/tecnico-integrado-em-informatica/).
  
   <p align="center">
