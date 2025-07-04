@@ -5,15 +5,17 @@
 <!-- about me starts -->
   <h3 align="center">About me</h3>
 
-- I'm a 25-year-old Software Engineer.
-- I’m currently studying <b>Computer Engineering</b> at the [Universidade Aberta](https://portal.uab.pt/) and <b>Common Core</b> at [42 School](https://42.fr/en/homepage/) in São Paulo
-- I finished the AWS re/Start program from Amazon Web Services. Through scenario-based exercises, I developed skills in Linux, Python, networking, security, databases, automation and essential AWS Cloud skills.
-- I passed the <b>AWS Cloud Practitioner</b> exam and received the certification.
-- I have a very good knowledge of C, C++ and Shell learned at [42Porto](https://www.42porto.com/) and some knowledge of HTML, CSS and PHP learned at [TecPuc](https://www.tecpuc.com.br/tecnico-integrado-em-informatica/).
+- I'm a Software Engineer currently studying Computer Engineering at [Universidade Aberta](https://portal.uab.pt/).
+- I graduated from [42 School](https://42.fr/en/homepage/), where I gained strong experience in C, C++, Shell scripting, low-level programming (memory, processes, concurrency) and Docker.
+- At 42, I also had introductory experience with backend development using Node.js, TypeScript, Fastify, SQLite and microservices architecture.
+- I completed the AWS re/Start program by Amazon Web Services, gaining knowledge in Linux, Python, networking, security, automation and core AWS Cloud skills.
+- I passed the AWS Cloud Practitioner exam and received the certification.
+- I learned Arduino and basic web development (HTML, CSS, PHP, MySQL) at TecPuc.
+- I worked at [Itaú Unibanco](https://www.itau.com.br/), the largest bank in Latin America, where I contributed to an AI-based serverless solution using AWS Lambda (Python), API Gateway, DynamoDB, S3 and CI/CD with GitHub Actions.
  
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,c,cpp,py,css,html,linux,docker,git,github,vim,vscode&perline=6" />
+      <img src="https://skillicons.dev/icons?i=aws,c,cpp,py,nodejs,bash,linux,docker,git,github,vim,vscode&perline=6" />
     </a>
   </p>                             
 
