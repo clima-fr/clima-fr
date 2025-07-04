@@ -34,7 +34,7 @@
 - I have a background in classical dance and taught ballet classes for several years.
 - I'm autistic (Level 1).
 - I'm obsessed with sports in general, but I prefer cheering and watching over actually playing.
-- People often find me hard to label. I don’t really match the idea most have of a developer, or a ballet dancer, or even an autistic person. I’ve learned to enjoy that 😊.
+- People often find me hard to label. I don’t really match the idea most have of a developer, or a dancer, or even an autistic person. I’ve learned to enjoy that 😊.
 - I love hearing random facts about people. Share yours with me: [LinkedIn](https://www.linkedin.com/in/claralfranco/), [Email](mailto:claralimafranco@gmail.com)
   
   <img width="100%" height="174" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ3ODY1NzQ0ODhkNTljNGNjZmE0OTBmODBjZTY1ZjVkYzZhYjNjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0HFijagZRPrwKd9K/giphy.gif">
