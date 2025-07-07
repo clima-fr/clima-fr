@@ -30,7 +30,7 @@
 - If I could choose a character to describe my personality I would choose Andrea Sachs from *The Devil Wears Prada*!
 - I was once called on stage by Pharrell Williams at a concert... and I said no.
 - I'm surprisingly good at winning contests. I've won free dinners, festival tickets, cinema passes, cash prizes and even a Nintendo Switch.
-- I need to read at least 10 pages of a book before bed or I can't fall asleep (currently reading *A Clash of Kings*).
+- I need to read at least 10 pages of a book before bed or I can't fall asleep (currently reading *A Storm of Swords*).
 - I have a background in classical dance and taught ballet classes for several years.
 - I'm autistic (Level 1).
 - I'm obsessed with sports in general, but I prefer cheering and watching over actually playing.
